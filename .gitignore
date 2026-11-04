@@ -1,0 +1,18 @@
+# Secrets
+.streamlit/secrets.toml
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# SQLite Cache
+data/vt_cache.sqlite
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db

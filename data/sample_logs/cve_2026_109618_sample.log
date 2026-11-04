@@ -1,0 +1,3 @@
+[2026-10-22T14:38:01Z] PHP Fatal error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes)
+[2026-10-22T14:38:01Z] [mpm_prefork:error] [pid 4121] AH00161: server reached MaxRequestWorkers setting, consider raising the MaxRequestWorkers setting
+[2026-10-22T14:38:02Z] [core:notice] [pid 4121] AH00051: child pid 4122 exit signal Segmentation fault (11)
