@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PHP2Shell Detection-to-Defense Pipeline
 
 Three-layer pipeline for CVE-2026-109618 / CVE-2026-109619.
@@ -13,3 +14,7 @@ Three-layer pipeline for CVE-2026-109618 / CVE-2026-109619.
 2. Create app at share.streamlit.io, entrypoint `streamlit_app.py`
 3. Paste secrets into the app's Secrets field
 4. Python 3.12 is selected automatically
+=======
+# php2shell-pipeline
+A Reference Implementation of an Evidence-Constrained Detection-to-Defense Pipeline for PHP2Shell Exploitation
+>>>>>>> 02af2aaabe6beedfcd977aeb2ea314daca03aff0
